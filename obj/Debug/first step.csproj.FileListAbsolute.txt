@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\first step\first step\obj\Debug\first step.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\first step\first step\obj\Debug\first step.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\first step\first step\bin\Debug\first step.exe.config
+C:\Users\Lenovo\source\repos\first step\first step\bin\Debug\first step.exe
+C:\Users\Lenovo\source\repos\first step\first step\bin\Debug\first step.pdb
+C:\Users\Lenovo\source\repos\first step\first step\obj\Debug\first step.exe
+C:\Users\Lenovo\source\repos\first step\first step\obj\Debug\first step.pdb
